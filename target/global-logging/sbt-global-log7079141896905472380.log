@@ -1,0 +1,32 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(runMain Constuctors.BankApp, Some(b8683be3-5244-48c4-a366-38a865791a95), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / runMain[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 21 Scala sources to /home/vsahithi/IdeaProjects/Practice/target/scala-3.3.7/classes ...[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: /home/vsahithi/IdeaProjects/Practice/src/main/scala/ConditionalLoops/BreakContinue.scala:15:0 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m15 |[0mprintln([31m" break loop exceuted"[0m)[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m   |[0m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0mLine is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: /home/vsahithi/IdeaProjects/Practice/src/main/scala/ConditionalLoops/Loops.scala:28:0 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m28 |[0mprintln([31m"hello"[0m)[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m   |[0m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0mLine is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: /home/vsahithi/IdeaProjects/Practice/src/main/scala/ConditionalLoops/NestedLoops.scala:21:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m21 |[0m  [33mdef[0m [36mmain[0m([36margs[0m: [35mArray[0m[[35mString[0m]): [35mUnit[0m = {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m   |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: /home/vsahithi/IdeaProjects/Practice/src/main/scala/ConditionalLoops/SalaryEvaluator.scala:10:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m10 |[0m  [33mval[0m [36mcategory[0m=[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m   |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: /home/vsahithi/IdeaProjects/Practice/src/main/scala/Test/NestedFunction.scala:9:2 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m9 |[0m  println([31m"substracting Values--"[0m)[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m  |[0m  ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m  |[0m  Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: /home/vsahithi/IdeaProjects/Practice/src/main/scala/fieldsNmethods/PersonDec.scala:14:0 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m14 |[0mprintln(pers.treat());[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m   |[0m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0mLine is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m6 warnings found[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 4 s, completed 7 Jan, 2026 11:59:23 AM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m
